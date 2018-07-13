@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting label="Headless Client Mode" type="bool" id="headless_mode" default="false"/>
+        <setting label="Server ID (located in the 'Manage' window of Parsec on your host machine)" type="number" id="server_id" subsetting="true" default="00000"/>
+        <setting type="sep"/>
+        <setting label="Parsec Button Overlay" type="bool" id="client_overlay" default="true"/>
+        <setting label="Keyboard Shortcut Passthrough" type="bool" id="client_immersive" default="false"/>
+        <setting type="sep"/>
+        <setting label="OS User" type="text" id="os_user" default="osmc"/>
+    </category> 
+    <category label="Quality">
+        <setting label="Wan Quality" type="labelenum" id="wan_quality" values="Performance|Balanced|Quality"/>
+        <setting type="sep"/>
+        <setting label="Lan Quality" type="labelenum" id="lan_quality" values="Performance|Balanced|Quality"/>
+        <setting label="Force Lan Connection" type="bool" id="force_lan" subsetting="true" default="false"/>
+        <setting type="sep"/>
+        <setting label="Encoder Bitrate" type="number" id="encoder_bitrate" default="10"/>
+        <setting label="Encoder Frames Per Second" type="labelenum" id="encoder_fps" values="Client Display|30|60"/>
+        <setting label="Encoder Fidelity" type="number" id="encoder_fidelity" default="25"/>
+    </category>  
+    <category label="Display">
+        <setting label="Host Resolution - Width" type="number" id="server_resolution_width" default="1920"/>
+        <setting label="Host Resolution - Height" type="number" id="server_resolution_height" default="1080"/>
+        <setting type="sep"/>
+        <setting label="Host Refresh Rate" type="text" id="server_refresh_rate" default="60"/>
+        <setting type="sep"/>
+        <setting label="Client VSync" type="bool" id="client_vsync" default="true"/>
+    </category>
+    <category label="Audio">
+        <setting label="Client Audio Buffer" type="number" id="client_audio_buffer" default="20000"/>
+        <setting type="sep"/>
+        <setting label="Echo Cancellation" type="bool" id="echo_cancel" default="true"/>
+        <setting label="Mute Host Speakers On Connect" type="bool" id="server_admin_mute" default="true"/>
+    </category>
+</settings>
