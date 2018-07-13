@@ -7,7 +7,7 @@
         <setting label="Parsec Button Overlay" type="bool" id="client_overlay" default="true"/>
         <setting label="Keyboard Shortcut Passthrough" type="bool" id="client_immersive" default="false"/>
         <setting type="sep"/>
-        <setting label="OS User" type="text" id="os_user" default="osmc"/>
+        <setting label="OS User (If running on Raspbian, change to 'pi')" type="text" id="os_user" default="osmc"/>
     </category> 
     <category label="Quality">
         <setting label="Wan Quality" type="labelenum" id="wan_quality" values="Performance|Balanced|Quality"/>
