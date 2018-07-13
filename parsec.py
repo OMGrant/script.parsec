@@ -8,10 +8,11 @@ SPECIAL_PATH = "special://home/addons/{0}/resources/".format(PLUGIN_ID)
 ADDON = xbmcaddon.Addon()
 ADDON_NAME = ADDON.getAddonInfo('name')
 
-HEADLESS_MODE = ADDON.getSetting('headless_mode')
 OS_USER = ADDON.getSetting('os_user')
 RESOURCE_PATH = xbmc.translatePath(SPECIAL_PATH)
 SERVER_ID = ADDON.getSetting('server_id')
+
+HEADLESS_MODE = ADDON.getSetting('headless_mode')
 
 if ADDON.getSetting('client_overlay') != "true":
     PARSEC_BUTTON = "client_overlay=0"
