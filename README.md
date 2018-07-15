@@ -9,9 +9,9 @@ Parsec is a game streaming application used to play video games remotely across 
 
 ## Requirements
 * Raspberry Pi Device
-* OSMC installed on your device - [Download & Installation Instructions](https://osmc.tv/download/)
-* Parsec installed on your device - [Download & Installation Instructions](https://support.parsecgaming.com/hc/en-us/articles/115002699012-Setting-Up-On-Raspberry-Pi-Raspbian-)
-* Parsec installed on a host machine to connect to
+* OSMC installed on your device - [Download & Installation Instructions](https://osmc.tv/download/).
+* Parsec installed on your device - [Download & Installation Instructions](https://support.parsecgaming.com/hc/en-us/articles/115002699012-Setting-Up-On-Raspberry-Pi-Raspbian-).
+* Parsec installed on a host machine or cloud instance to connect to.
 
 ## Installation
 * Download production package [here](http://dev.grantgarrison.com/projects/script.parsec.zip).
@@ -21,6 +21,6 @@ Parsec is a game streaming application used to play video games remotely across 
 * Not sure if all client side configurations are working properly. Server side resolution hasn't appered to work but might be due to a limitation in Parsec itself.
 
 ## Future Development
-* Raspbian + Kodi functionality currently being tested
-* Other platforms being considered
+* Raspbian + Kodi functionality currently being tested.
+* Other platforms being considered.
 <br /><br />http://dev.grantgarrison.com
