@@ -15,15 +15,8 @@ Parsec is a game streaming application used to play video games remotely across 
 * USB keyboard (wired or wireless)
 
 ## Installation
-* Download production package [here](http://dev.grantgarrison.com/projects/script.parsec.zip).
-* Follow the addon installation instructions [here](https://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files).
-
-## First Time Setup
-1. You can find this addon in the *Programs* menu of OSMC's home menu. *(Similar location in Kodi)*
-1. On first launch, Parsec will ask you to enter your username and password.<br /> 
-You'll need to connect a USB keyboard in order to enter this in.
-1. Parsec will then ask you if you want to save this information.<br />
-I reccomend doing so so that you won't have to do so again each time you launch Parsec from the addon addon.
+* Download production package **script.parsec.zip** [here](http://dev.grantgarrison.com/projects/script.parsec.zip).
+* Follow the addon installation instructions **HOW-TO:Install add-ons from zip files** [here](https://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files).
 
 ## Configuration
 * You can find the configuration settings for this addon by opening the context menu with the addon selected.
@@ -31,6 +24,13 @@ I reccomend doing so so that you won't have to do so again each time you launch 
   * Long pressing the OK/enter key on your remote.
   * Pressing letter C on a keyboard.
   * Right-clicking with the mouse.
+
+## First Time Setup
+1. You can find this addon in the *Programs* menu of OSMC's home menu. *(Similar location in Kodi)*
+1. On first launch, Parsec will ask you to enter your username and password.<br /> 
+You'll need to connect a USB keyboard in order to enter this in.
+1. Parsec will then ask you if you want to save this information.<br />
+I reccomend doing so so that you won't have to do so again each time you launch Parsec from the addon addon.
 
 ## Known Bugs
 * Not sure if all client side configurations are working properly. Server side resolution hasn't appered to work but might be due to a limitation in Parsec itself.
