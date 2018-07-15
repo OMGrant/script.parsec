@@ -27,10 +27,10 @@ I reccomend doing so so that you won't have to do so again each time you launch 
 
 ## Configuration
 * You can find the configuration settings for this addon by opening the context menu with the addon selected.
-* You can open the context menu by doing the following actions
-  * Long pressing the OK/enter key on your remote
-  * Pressing letter C on a keyboard
-  * Right-clicking with the mouse
+* You can open the context menu by doing the following actions:
+  * Long pressing the OK/enter key on your remote.
+  * Pressing letter C on a keyboard.
+  * Right-clicking with the mouse.
 
 ## Known Bugs
 * Not sure if all client side configurations are working properly. Server side resolution hasn't appered to work but might be due to a limitation in Parsec itself.
