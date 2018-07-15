@@ -32,6 +32,10 @@ You'll need to connect a USB keyboard in order to enter this in.
 1. Parsec will then ask you if you want to save this information.<br />
 I reccomend doing so so that you won't have to do so again each time you launch Parsec from the addon addon.
 
+## Exiting Parsec
+* In order to exit Parsec back into OSMC/Kodi, you'll need to enter the following command on your keyboard.
+  * Ctrl + Alt + ~
+
 ## Known Bugs
 * Not sure if all client side configurations are working properly. Server side resolution hasn't appered to work but might be due to a limitation in Parsec itself.
 
