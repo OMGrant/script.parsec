@@ -1,1 +1,1 @@
-sudo su $1 -c "parsec $2"; sudo systemctl start mediacenter; sudo systemctl start kodi;
+sudo su $1 -c "parsec $2"; sudo systemctl start mediacenter;
