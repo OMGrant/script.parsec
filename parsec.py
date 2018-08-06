@@ -100,4 +100,4 @@ else:
 
 
 import subprocess
-subprocess.call(PARSEC_LAUNCHER, shell=True)
+subprocess.call("sh" + PARSEC_LAUNCHER, shell=True)
