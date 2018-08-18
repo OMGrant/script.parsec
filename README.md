@@ -1,5 +1,8 @@
-# OSMC/Kodi Addon: Parsec Launcher
+Parsec Launcher for OSMC
 Parsec is a game streaming application used to play video games remotely across a conntected network from a system in the cloud to your home computer. OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices. This addon brings the two together to create a seamless experience.
+
+![Add-on Configuration](https://i.imgur.com/qm2vHi9.jpg)
+![Add-on Settings](https://i.imgur.com/63NWEMi.jpg)
 
 ## Features
 * Launch Parsec from OSMC/Kodi on your Raspberry Pi.
