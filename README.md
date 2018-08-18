@@ -45,4 +45,5 @@ I reccomend doing so so that you won't have to do so again each time you launch 
 ## Future Development
 * Raspbian + Kodi functionality currently being tested. If anyone knows how to exit Kodi from command line in Rasbian Stretch with Desktop let me know!
 * Other platforms being considered.
-<br /><br />http://dev.grantgarrison.com
+
+http://dev.grantgarrison.com
