@@ -33,14 +33,11 @@ Parsec is a game streaming application used to play video games remotely across 
 1. On first launch, Parsec will ask you to enter your username and password.<br /> 
 You'll need to connect a USB keyboard in order to enter this in.
 1. Parsec will then ask you if you want to save this information.<br />
-I reccomend doing so so that you won't have to do so again each time you launch Parsec from the addon addon.
+I reccomend doing so so that you won't have to do so again each time you launch Parsec from the addon.
 
 ## Exiting Parsec
 * In order to exit Parsec back into OSMC/Kodi, you'll need to enter the following command on your keyboard.
   * Ctrl + Alt + ~
-
-## Known Bugs
-* None known so far. Not sure if all client side configurations are working correctly. 
 
 ## Future Development
 * Raspbian + Kodi functionality currently being tested. If anyone knows how to exit Kodi from command line in Rasbian Stretch with Desktop let me know!
