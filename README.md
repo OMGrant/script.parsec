@@ -40,7 +40,7 @@ I reccomend doing so so that you won't have to do so again each time you launch 
   * Ctrl + Alt + ~
 
 ## Future Development
-* If you're a savvy developer, please feel free to fork this project. I'd love to expand this LibreELEC and Raspbian running Kodi, but unfortunately I just don't have time to learn how. OSMC's environment and dependencies made putting this together much easier than on other platforms.
+* If you're a savvy developer, please feel free to fork this project. I'd love to expand this to LibreELEC and Raspbian running Kodi, but unfortunately I just don't have time to learn how. OSMC's environment and dependencies made putting this together much easier than on other platforms.
 * Once OSMC and Parsec are released on Raspberry Pi 4, I'll be looking to open this project back up, update the branding to Parsec's new brand package and reconsider the feature set as Parsec has evolved quite a bit since the creationg of this plugin and things that used to be set on the client side aren't anymore. (Correct me if I'm wrong on that.)
 
 http://dev.grantgarrison.com
