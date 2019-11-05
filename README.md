@@ -5,9 +5,9 @@ Parsec is a game streaming application used to play video games remotely across 
 ![Add-on Settings](https://i.imgur.com/63NWEMi.jpg)
 
 ## Features
-* Launch Parsec from OSMC/Kodi on your Raspberry Pi.
+* Launch Parsec from Kodi on your Raspberry Pi running OSMC.
 * Easily configure your Parsec connection from within the addon configuration menu.
-* Automatically exit back into OSMC/Kodi after your Parsec session has ended.
+* Automatically exit back into Kodi after your Parsec session has ended.
 * Seamlessly launch directly into your Parsec host without having to enter login or host selection information by enabling Headless Client Mode.
 
 ## Requirements
@@ -36,11 +36,11 @@ You'll need to connect a USB keyboard in order to enter this in.
 I reccomend doing so so that you won't have to do so again each time you launch Parsec from the addon.
 
 ## Exiting Parsec
-* In order to exit Parsec back into OSMC/Kodi, you'll need to enter the following command on your keyboard.
+* In order to exit Parsec back into Kodi on your Raspberry Pi running OSMC, you'll need to enter the following command on your keyboard.
   * Ctrl + Alt + ~
 
 ## Future Development
-* Raspbian + Kodi functionality currently being tested. If anyone knows how to exit Kodi from command line in Rasbian Stretch with Desktop let me know!
-* Other platforms being considered.
+* If you're a savvy developer, please feel free to fork this project. I'd love to expand this LibreELEC and Raspbian running Kodi, but unfortunately I just don't have time to learn how. OSMC's environment and dependencies made putting this together much easier than on other platforms.
+* Once OSMC and Parsec are released on Raspberry Pi 4, I'll be looking to open this project back up, update the branding to Parsec's new brand package and reconsider the feature set as Parsec has evolved quite a bit since the creationg of this plugin and things that used to be set on the client side aren't anymore. (Correct me if I'm wrong on that.)
 
 http://dev.grantgarrison.com
