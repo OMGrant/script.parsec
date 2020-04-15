@@ -1,4 +1,4 @@
-#NO LONGER COMPATIBLE
+# NO LONGER COMPATIBLE
 Hi folks, unfortunately it seems the Parsec team have made a lot of changes to Parsec recently that are good, but break compatability with this plugin for the time being. If and when Parsec becomes available for the Pi 4, I'll be able to resume development on this plugin, but for the time being this is defunct. Please feel free to fork and continue if you can!
 
 # Parsec Launcher for OSMC
